@@ -5,3 +5,7 @@
 - configure tailwind-css
 - configure daisyUI
 - Setup Navbar Component
+- install react-router-dom
+- create browserRouter
+- create body component and just fetch the another component
+- use outlet
