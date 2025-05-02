@@ -1,4 +1,4 @@
-# dev-tnder frontend
+# dev-tinder frontend
 - Created Vite + React app
 - Remove unnecessary code
 - create hello world
@@ -8,4 +8,7 @@
 - install react-router-dom
 - create browserRouter
 - create body component and just fetch the another component
+- Children routes for body
 - use outlet
+- made Footer component
+- made footer route
